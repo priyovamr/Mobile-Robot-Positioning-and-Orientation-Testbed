@@ -1,1 +1,5 @@
 # Mobile-Robot-Positioning-and-Orientation-Testbed
+Penelitian ini berhasil mengusulkan setup testbed yang dapat digunakan untuk mengukur lokasi dan orientasi robot baik statis maupun dinamis. Penggunaan perangkat dengan spesifikasi menengah menjadikan setup testbed ini terjangkau untuk diterapkan. Testbed yang diusulkan memiliki rata-rata nilai error kurang dari 3,8 cm pada pengujian statis dan terbukti mampu merekam pergerakan robot baik pada lintasan lurus maupun melingkar. Berdasarkan hasil pengujian dapat disimpulkan bahwa setup testbed sangat direkomendasikan sebagai solusi cepat dan murah untuk verifikasi dan pengambilan data untuk berbagai penelitian yang membutuhkan perekaman lokasi dan orientasi robot baik statis maupun dinamis. Beberapa perbaikan diperlukan untuk menjadikan sistem lebih handal dan akurat.     
+
+Untuk penjelasan lebih detail mengenai metode serta hasil yang didapat oleh testbed ini disajikan pada jurnal Institut Informatika Indonesia (IKADO) Surabaya pada link berikut: 
+https://ejournal.ikado.ac.id/index.php/teknika/article/view/714/305
